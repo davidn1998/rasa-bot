@@ -7,8 +7,6 @@
 - Good morning
 - hi again
 - hi folks
-- hi sparticus
-- Hey Sparticus
 
 ## intent:bye
 - goodbye
@@ -29,211 +27,314 @@
 - Thanks for that
 - cheers
 
-## intent: faq/absolute_altitude
+## intent: term0
 - What does Absolute altitude mean?
-## intent: faq/adverse_yaw
+
+## intent: term1
 - What does Adverse yaw mean?
-## intent: faq/aeronautical_information_manual_(aim)
+
+## intent: term2
 - What does Aeronautical Information Manual (AIM) mean?
-## intent: faq/air_traffic_control_(atc)
+
+## intent: term3
 - What does Air Traffic Control (ATC) mean?
-## intent: faq/airfoil
+
+## intent: term4
 - What does Airfoil mean?
-## intent: faq/altimeter
+
+## intent: term5
 - What does Altimeter mean?
-## intent: faq/altitude_indicator
+
+## intent: term6
 - What does Altitude indicator mean?
-## intent: faq/angle_of_attack
+
+## intent: term7
 - What does Angle of attack mean?
-## intent: faq/anhedral
+
+## intent: term8
 - What does Anhedral mean?
-## intent: faq/annual_inspection
+
+## intent: term9
 - What does Annual inspection mean?
-## intent: faq/autogiro_or_autogyro
+
+## intent: term10
 - What does Autogiro or autogyro mean?
-## intent: faq/avionics_master_switch
+
+## intent: term11
 - What does Avionics master switch mean?
-## intent: faq/base_leg
+
+## intent: term12
 - What does Base leg mean?
-## intent: faq/best_lift_over_drag_ratio
+
+## intent: term13
 - What does Best lift over drag ratio mean?
-## intent: faq/blade_angle
+
+## intent: term14
 - What does Blade angle mean?
-## intent: faq/bleed_air
+
+## intent: term15
 - What does Bleed air mean?
-## intent: faq/camber
+
+## intent: term16
 - What does Camber mean?
-## intent: faq/cargo
+
+## intent: term17
 - What does Cargo mean?
-## intent: faq/cavu
+
+## intent: term18
 - What does CAVU mean?
-## intent: faq/charter
+
+## intent: term19
 - What does Charter mean?
-## intent: faq/chord_line
+
+## intent: term20
 - What does Chord line mean?
-## intent: faq/clearance
+
+## intent: term21
 - What does Clearance mean?
-## intent: faq/climb
+
+## intent: term22
 - What does Climb mean?
-## intent: faq/controlled_airspace
+
+## intent: term23
 - What does Controlled airspace mean?
-## intent: faq/course_deviation_indicator
+
+## intent: term24
 - What does Course deviation indicator mean?
-## intent: faq/crosswind
+
+## intent: term25
 - What does Crosswind mean?
-## intent: faq/deadstick
+
+## intent: term26
 - What does Deadstick mean?
-## intent: faq/delta_wing
+
+## intent: term27
 - What does Delta wing mean?
-## intent: faq/descent
+
+## intent: term28
 - What does Descent mean?
-## intent: faq/distress
+
+## intent: term29
 - What does Distress mean?
-## intent: faq/downwash
+
+## intent: term30
 - What does Downwash mean?
-## intent: faq/downwind_leg
+
+## intent: term31
 - What does Downwind leg mean?
-## intent: faq/drag
+
+## intent: term32
 - What does Drag mean?
-## intent: faq/emergency_overrun
+
+## intent: term33
 - What does Emergency overrun mean?
-## intent: faq/empennage
+
+## intent: term34
 - What does Empennage mean?
-## intent: faq/engine
+
+## intent: term35
 - What does Engine mean?
-## intent: faq/estimated_time_en_route
+
+## intent: term36
 - What does Estimated time en route mean?
-## intent: faq/estimated_time_of_arrival
+
+## intent: term37
 - What does Estimated time of arrival mean?
-## intent: faq/federal_aviation_authority_(faa)
+
+## intent: term38
 - What does Federal Aviation Authority (FAA) mean?
-## intent: faq/final_approach
+
+## intent: term39
 - What does Final approach mean?
-## intent: faq/fixed_base_operator_(fbo)
+
+## intent: term40
 - What does Fixed Base Operator (FBO) mean?
-## intent: faq/flaperon
+
+## intent: term41
 - What does Flaperon mean?
-## intent: faq/flaps
+
+## intent: term42
 - What does Flaps mean?
-## intent: faq/flight_deck
+
+## intent: term43
 - What does Flight deck mean?
-## intent: faq/flight_plan
+
+## intent: term44
 - What does Flight plan mean?
-## intent: faq/fuselage
+
+## intent: term45
 - What does Fuselage mean?
-## intent: faq/ground_control
+
+## intent: term46
 - What does Ground control mean?
-## intent: faq/groundspeed
+
+## intent: term47
 - What does Groundspeed mean?
-## intent: faq/horizontal_stabilizer
+
+## intent: term48
 - What does Horizontal stabilizer mean?
-## intent: faq/instrument_flight_rules_(ifr)
+
+## intent: term49
 - What does Instrument Flight Rules (IFR) mean?
-## intent: faq/instrument_landing_system_(ils)
+
+## intent: term50
 - What does Instrument landing system (ILS) mean?
-## intent: faq/joystick
+
+## intent: term51
 - What does Joystick mean?
-## intent: faq/knot
+
+## intent: term52
 - What does Knot mean?
-## intent: faq/landing_gear
+
+## intent: term53
 - What does Landing gear mean?
-## intent: faq/level_flight
+
+## intent: term54
 - What does Level flight mean?
-## intent: faq/lift
+
+## intent: term55
 - What does Lift mean?
-## intent: faq/lighter-than-air_craft_(lta_craft)
+
+## intent: term56
 - What does Lighter-than-air craft (LTA craft) mean?
-## intent: faq/longitudinal_axis
+
+## intent: term57
 - What does Longitudinal axis mean?
-## intent: faq/magnetic_compass
+
+## intent: term58
 - What does Magnetic compass mean?
-## intent: faq/maneuvering_speed
+
+## intent: term59
 - What does Maneuvering speed mean?
-## intent: faq/master_switch
+
+## intent: term60
 - What does Master switch mean?
-## intent: faq/mean_sea_level_(msl)
+
+## intent: term61
 - What does Mean sea level (MSL) mean?
-## intent: faq/n_number
+
+## intent: term62
 - What does N number mean?
-## intent: faq/navaid
+
+## intent: term63
 - What does Navaid mean?
-## intent: faq/oil_pressure_gauge
+
+## intent: term64
 - What does Oil pressure gauge mean?
-## intent: faq/operating_limitations
+
+## intent: term65
 - What does Operating limitations mean?
-## intent: faq/pilot_in_command_(pic)
+
+## intent: term66
 - What does Pilot in command (PIC) mean?
-## intent: faq/pitch
+
+## intent: term67
 - What does Pitch mean?
-## intent: faq/preignition
+
+## intent: term68
 - What does Preignition mean?
-## intent: faq/primary_flight_display
+
+## intent: term69
 - What does Primary flight display mean?
-## intent: faq/propeller
+
+## intent: term70
 - What does Propeller mean?
-## intent: faq/quadraplane
+
+## intent: term71
 - What does Quadraplane mean?
-## intent: faq/radar_approach_control_facility_(rapcon)
+
+## intent: term72
 - What does Radar Approach Control Facility (RAPCON) mean?
-## intent: faq/registration_number
+
+## intent: term73
 - What does Registration number mean?
-## intent: faq/roll
+
+## intent: term74
 - What does Roll mean?
-## intent: faq/rudder
+
+## intent: term75
 - What does Rudder mean?
-## intent: faq/runway
+
+## intent: term76
 - What does Runway mean?
-## intent: faq/short_field
+
+## intent: term77
 - What does Short field mean?
-## intent: faq/single_engine
+
+## intent: term78
 - What does Single engine mean?
-## intent: faq/soft_field
+
+## intent: term79
 - What does Soft field mean?
-## intent: faq/squawk
+
+## intent: term80
 - What does SQUAWK mean?
-## intent: faq/stall
+
+## intent: term81
 - What does Stall mean?
-## intent: faq/straight_flight
+
+## intent: term82
 - What does Straight flight mean?
-## intent: faq/tail
+
+## intent: term83
 - What does Tail mean?
-## intent: faq/threshold
+
+## intent: term84
 - What does Threshold mean?
-## intent: faq/throttle
+
+## intent: term85
 - What does Throttle mean?
-## intent: faq/thrust
+
+## intent: term86
 - What does Thrust mean?
-## intent: faq/torque
+
+## intent: term87
 - What does Torque mean?
-## intent: faq/tower
+
+## intent: term88
 - What does Tower mean?
-## intent: faq/transponder
+
+## intent: term89
 - What does Transponder mean?
-## intent: faq/true_airspeed
+
+## intent: term90
 - What does True airspeed mean?
-## intent: faq/true_altitude
+
+## intent: term91
 - What does True altitude mean?
-## intent: faq/turbosuperchargers
+
+## intent: term92
 - What does Turbosuperchargers mean?
-## intent: faq/upwind_leg
+
+## intent: term93
 - What does Upwind leg mean?
-## intent: faq/urgent_condition
+
+## intent: term94
 - What does Urgent condition mean?
-## intent: faq/vertical_speed_indicator_(vsi)
+
+## intent: term95
 - What does Vertical Speed Indicator (VSI) mean?
-## intent: faq/very_high_frequency_omnidirectional_range
+
+## intent: term96
 - What does Very high frequency omnidirectional range mean?
-## intent: faq/weight-shift-control
+
+## intent: term97
 - What does Weight-shift-control mean?
-## intent: faq/wind_shear
+
+## intent: term98
 - What does Wind Shear mean?
-## intent: faq/wing
+
+## intent: term99
 - What does Wing mean?
-## intent: faq/wing_walker
+
+## intent: term100
 - What does Wing walker mean?
-## intent: faq/yaw
+
+## intent: term101
 - What does YAW mean?
-## intent: faq/yoke
+
+## intent: term102
 - What does Yoke mean?
-## intent: faq/zulu_time
+
+## intent: term103
 - What does Zulu Time mean?

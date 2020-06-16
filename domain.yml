@@ -2,7 +2,110 @@ intents:
   - greet
   - bye
   - thank
-  - faq
+  - term0
+  - term1
+  - term2
+  - term3
+  - term4
+  - term5
+  - term6
+  - term7
+  - term8
+  - term9
+  - term10
+  - term11
+  - term12
+  - term13
+  - term14
+  - term15
+  - term16
+  - term17
+  - term18
+  - term19
+  - term20
+  - term21
+  - term22
+  - term23
+  - term24
+  - term25
+  - term26
+  - term27
+  - term28
+  - term29
+  - term30
+  - term31
+  - term32
+  - term33
+  - term34
+  - term35
+  - term36
+  - term37
+  - term38
+  - term39
+  - term40
+  - term41
+  - term42
+  - term43
+  - term44
+  - term45
+  - term46
+  - term47
+  - term48
+  - term49
+  - term50
+  - term51
+  - term52
+  - term53
+  - term54
+  - term55
+  - term56
+  - term57
+  - term58
+  - term59
+  - term60
+  - term61
+  - term62
+  - term63
+  - term64
+  - term65
+  - term66
+  - term67
+  - term68
+  - term69
+  - term70
+  - term71
+  - term72
+  - term73
+  - term74
+  - term75
+  - term76
+  - term77
+  - term78
+  - term79
+  - term80
+  - term81
+  - term82
+  - term83
+  - term84
+  - term85
+  - term86
+  - term87
+  - term88
+  - term89
+  - term90
+  - term91
+  - term92
+  - term93
+  - term94
+  - term95
+  - term96
+  - term97
+  - term98
+  - term99
+  - term100
+  - term101
+  - term102
+  - term103
 
 responses:
   utter_noworries:
@@ -11,6 +114,211 @@ responses:
     - text: Hi
   utter_bye:
     - text: Bye!
-
-actions:
-  - respond_faq
+  utter_term0:
+    - text: The vertical distance of the aircraft above the ground.
+  utter_term1:
+    - text: When the nose of an aircraft turns away from the direction of turn.
+  utter_term2:
+    - text: A publication by the Federal Aviation Administration (FAA) that instructs pilots how to operate correctly in the US National Airspace System. There are separate guides for the USA and Canada. The AIM is the official guide to flight information, Air Traffic Control (ATC) procedures and aviation safety.
+  utter_term3:
+    - text: A service operated by the authorities to ensure the safety of air traffic. Air traffic controllers in a ground-based ATC facility direct aircraft in their area during take-off, landing and while flying in the airspace.
+  utter_term4:
+    - text: The shape of a surface such as a wing, blade, turbine or rotor that generates lift from air passing over it.
+  utter_term5:
+    - text: A cockpit instrument that measures the aircraft’s altitude. The altimeter consists of an aneroid barometer which calculates altitude based on the current air pressure.
+  utter_term6:
+    - text: An instrument that details the relation of the aircraft to the horizon.
+  utter_term7:
+    - text: The angle made from the chord line of an airfoil and the direction of the air that strikes it.
+  utter_term8:
+    - text: The downward angle or inclination of an airplane’s wing in relation to a horizontal cross-section line.
+  utter_term9:
+    - text: A nose-to-tail inspection of an aircraft that is required every 12 months.
+  utter_term10:
+    - text: An aircraft that is often wingless, similar to a helicopter. However, an autogiro has unpowered rotary blades that rotate due to air speed and slipstream to get air powered-lift. Also known as a gyroplane.
+  utter_term11:
+    - text: The switch that controls electrical power to all electronic navigation and communications equipment in the aircraft.
+  utter_term12:
+    - text: A descending flight path that runs in the direction of landing along the runway.
+  utter_term13:
+    - text: Often referred to as "L over D max," this is the highest value of the ratios of lift to drag for any airfoil.
+  utter_term14:
+    - text: The angle between the chord of a propeller blade and a plane of rotation.
+  utter_term15:
+    - text: Compressed hot air that is produced by the operation of the engine. This is then used at high pressure for de-icing and heating the jet.
+  utter_term16:
+    - text: The degree of curve in an airfoil.
+  utter_term17:
+    - text: Goods carried on an airplane.
+  utter_term18:
+    - text: Stands for Ceiling and Visibility Unlimited, which indicates the ideal flying conditions, with a visibility of at least 10 miles and a ceiling of at least 10,000 feet.
+  utter_term19:
+    - text: Hiring an airplane. Business and high-profile clients may often charter a private jet.
+  utter_term20:
+    - text: An imaginary line on an airfoil from the leading edge to the trailing edge.
+  utter_term21:
+    - text: Authorization given by air traffic control aimed to prevent collision between aircraft.
+  utter_term22:
+    - text: A maneuver that increases the altitude of the aircraft.
+  utter_term23:
+    - text: A defined area of the sky that is controlled by ATC services. Controllers direct planes through the airspace, plotting the safest and most efficient route for each aircraft. All airplanes flying in controlled airspace must get clearance to enter the zone and be equipped to national regulations. The pilot must have the correct qualifications.
+  utter_term24:
+    - text: Also known as "CDI", this is the needle on the VOR indicator that shows whether the aircraft is to the right or left of the desired radial.
+  utter_term25:
+    - text: Wind that blows in a direction not parallel to the course.
+  utter_term26:
+    - text: A term for a forced landing, which takes place when the plane loses all propulsive power because the engine and propeller have stopped.
+  utter_term27:
+    - text: A triangle-shaped wing that looks similar to the shape of the uppercase Greek letter, delta. This type of wing is often used on fighter planes because of its superb aerodynamics.
+  utter_term28:
+    - text: A flight maneuver that causes a downward inclination.
+  utter_term29:
+    - text: A condition on the aircraft that signals danger and requires immediate action.
+  utter_term30:
+    - text: In aeronautics, the term describes air that is deflected downwards by the aircraft wing or a rotor blade on a helicopter, usually when the plane is taking off.
+  utter_term31:
+    - text: A flight path that runs parallel to the landing runway in the opposite direction of landing.
+  utter_term32:
+    - text: A force on the aircraft as it moves through the air. The force runs parallel and opposite to the airplane's direction.
+  utter_term33:
+    - text: A surface before the take-off area on the runway that is kept clear. This portion is designed to minimize damage to an aircraft if it is unable to stop.
+  utter_term34:
+    - text: A term for the aircraft’s tail, which is made up of a rudder, a fin and a stabilizer. This is also known as the tail or tail assembly and provides stability for the jet during flight.
+  utter_term35:
+    - text: An aircraft engine is a machine that converts energy to power the plane.
+  utter_term36:
+    - text: Commonly referred to as "ETE"; the estimated flight time a journey will take from departure to arrival in the destination or checkpoint.
+  utter_term37:
+    - text: Commonly referred to as "ETA"; the time an aircraft is predicted to arrive in its destination or checkpoint.
+  utter_term38:
+    - text: A national authority in the United States that regulates all aspects of civil aviation.
+  utter_term39:
+    - text: A flight path that leads towards the landing runway.
+  utter_term40:
+    - text: A business or organization that operates at an airport. An FBO provides aircraft operating services like maintenance, fueling, flight training, charter services, hangaring and parking.
+  utter_term41:
+    - text: A control surface that uses aspects of both flaps and ailerons, such as on the wing, to direct the roll or bank of a plane.
+  utter_term42:
+    - text: Flat surfaces added to the edges of the wing. These change the curve of the wing and allow the pilot to adjust lift and drag so the plane can safely fly at a lower speed.
+  utter_term43:
+    - text: Another name for the cockpit, which is located at the front of the aircraft and holds the pilot and instrument panels.
+  utter_term44:
+    - text: Information filed with the relevant ATC authority about a flight, including its duration, route and destination.
+  utter_term45:
+    - text: The central body portion of an aircraft.
+  utter_term46:
+    - text: The personnel and equipment in a control tower who are responsible for the safe and efficient movement of aircraft on the ground.
+  utter_term47:
+    - text: The horizontal speed that an aircraft travels over the ground.
+  utter_term48:
+    - text: A small lifting surface on the tail of an aircraft, also known as the tailplane, that provides stability.
+  utter_term49:
+    - text: The rules that govern flying under instrument meteorological conditions. Pilots follow these rules and create IFR flight plans for various weather conditions.
+  utter_term50:
+    - text: A radar-based system which allows ILS-equipped aircraft to find a runway and land safely, even when clouds are as low as 200 feet.
+  utter_term51:
+    - text: Also known as the control column, the joystick is the main device in the cockpit for controlling the aircraft. The joystick is usually floor- or roof-mounted.
+  utter_term52:
+    - text: A measurement or unit of speed that equals one nautical mile and about 1.15 statute miles.
+  utter_term53:
+    - text: The undercarriage of an aircraft. This structure supports the plane when it’s not flying and is used during taxi, lift-off and landing.
+  utter_term54:
+    - text: A flight maneuver that causes the aircraft to stay at the same altitude.
+  utter_term55:
+    - text: The aerodynamic force acting on an airplane that runs perpendicular to the relative wind. Lift causes the upward force that allows the aircraft to oppose gravity.
+  utter_term56:
+    - text: Refers to things like blimps, dirigibles and free balloons that float.
+  utter_term57:
+    - text: A direction of orientation; an imaginary line that passes horizontally through the center of gravity, from the head to tail of an aircraft.
+  utter_term58:
+    - text: A liquid-type compass and essential navigation instrument that displays an aircraft’s orientation in relation to the magnetic poles.
+  utter_term59:
+    - text: A speed calculated by the aircraft manufacturer that keeps the user from exceeding the maximum load factor for the airplane.
+  utter_term60:
+    - text: The switch that controls power to all electrical circuits in an aircraft.
+  utter_term61:
+    - text: The average height of the surface of the sea. MSL is used in aviation to measure altitude.
+  utter_term62:
+    - text: The registration number on a US-registered plane. The letter N is the letter internationally used to identify a US plane.
+  utter_term63:
+    - text: Stands for Navigational Aid, a device in an aircraft used to help with navigation.
+  utter_term64:
+    - text: An instrument in the aircraft that shows the pressure of the lubricating oil in the engine.
+  utter_term65:
+    - text: Indicates limits for a specific aircraft’s speed, weight, pressure, and passenger and crew size. The limits are determined by the aircraft manufacturer.
+  utter_term66:
+    - text: The pilot responsible for the safety and operation of the plane for the duration of the flight.
+  utter_term67:
+    - text: A motion on an aircraft's lateral axis (which runs from wing to wing) that causes the forward end to rise or fall.
+  utter_term68:
+    - text: Ignition that takes place in an internal combustion engine before the usual ignition occurs.
+  utter_term69:
+    - text: Also called "PDF", this is the electronic display screen that indicates the horizon, altitude, airspeed, vertical speed, rate of turn, trend and more.
+  utter_term70:
+    - text: A rotating piece powered by the engine that produces thrust to propel the airplane through the air.
+  utter_term71:
+    - text: A type of aircraft that has four or more wings of similar spans, also known as quadruplanes.
+  utter_term72:
+    - text: A facility based in an airport terminal that uses both non-radar and radar to provide services for planes that are moving through a controlled airspace, landing, or taking off. RAPCONs commonly operate near civil and military airports and may be controlled by the FAA, military or both.
+  utter_term73:
+    - text: The number assigned to an aircraft by the government for purposes of identification. The number must be displayed on the exterior of the aircraft so it is visible.
+  utter_term74:
+    - text: Motion on an aircraft along its nose-to-tail axis.
+  utter_term75:
+    - text: A vertical control surface in the tail of an airplane, which controls the side-to-side movement (YAW) of an aircraft.
+  utter_term76:
+    - text: A rectangular area of the ground set aside for aircraft to land and take-off.
+  utter_term77:
+    - text: A short runway length at the airport that requires a pilot to take off or land an aircraft within the shortest possible distance.
+  utter_term78:
+    - text: An aircraft with just one engine. Single-engined jets include light aircraft such as Cessnas.
+  utter_term79:
+    - text: An unpaved airport runway typically comprised of grass or dirt.
+  utter_term80:
+    - text: A four-digit number assigned to an aircraft. The pilot can use this number to identify his or her plane when contacting ATC.
+  utter_term81:
+    - text: An aircraft condition when the angle of attack is so great that the air no longer flows easily over the airfoil.
+  utter_term82:
+    - text: The flight maneuver that causes the aircraft to maintain the same direction.
+  utter_term83:
+    - text: The aerodynamic surfaces located at the rear of an aircraft.
+  utter_term84:
+    - text: The portion of a runway that is available for landing.
+  utter_term85:
+    - text: A valve in the carburetor that controls the amount of fuel that can enter the engine.
+  utter_term86:
+    - text: An aerodynamic force produced by a propeller or engine that pushes an aircraft forward.
+  utter_term87:
+    - text: A force that aims to produce rotation.
+  utter_term88:
+    - text: A radio call sign used to reach the local controller.
+  utter_term89:
+    - text: The device carried in an airplane that produces a coded pattern which is recognized on an air traffic control radar screen.
+  utter_term90:
+    - text: Also called "TAS"; the speed of an aircraft as it moves through the air. The number is corrected to account for temperature and altitude.
+  utter_term91:
+    - text: The distance of an aircraft above sea level. This is represented in Mean Sea Level.
+  utter_term92:
+    - text: A turbine-driven forced induction device, also known as a turbocharger. It increases the power and efficiency of a combustion engine and is used in aviation and ground vehicles.
+  utter_term93:
+    - text: A flight path that runs parallel to the landing runway in the same direction as landing.
+  utter_term94:
+    - text: A potential distress scenario that requires assistance, though not necessarily immediate.
+  utter_term95:
+    - text: A panel instrument that measures the rate of climb or descent in feet-per-minute, by sensing the change in atmospheric pressure. The VSI is also known as a variometer.
+  utter_term96:
+    - text: Also called "VOR", this is a short-range radio navigation system that allows aircraft to determine their position and receive radio signals from beacons on the ground.
+  utter_term97:
+    - text: A method of steering an aircraft such as a hand glider or paraglider. The pilot uses their weight to steer the craft, pushing against a triangular control bar that’s attached to the wing structure.
+  utter_term98:
+    - text: A quick change in wind speed or wind direction at any angle.
+  utter_term99:
+    - text: The piece of a heavier-than-air aircraft that creates aerodynamic lift.
+  utter_term100:
+    - text: An employee on the ground who assists the aircraft by walking on the wings to ensure there is ample space for clearance.
+  utter_term101:
+    - text: The side-to-side movement of an aircraft on its vertical axis.
+  utter_term102:
+    - text: The control wheel of an aircraft, similar to a car steering wheel.
+  utter_term103:
+    - text: A term for Universal Coordinated Time (UTC), also known as Greenwich Mean Time. All flight plans use Zulu Time.
